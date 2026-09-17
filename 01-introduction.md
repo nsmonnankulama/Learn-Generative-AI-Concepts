@@ -1,4 +1,4 @@
-# Generative AI: A Complete Tutorial
+# Generative AI: In simple
 
 > A beginner-friendly guide to understanding Generative AI, Machine Learning, Deep Learning, and how they work behind the scenes.
 
