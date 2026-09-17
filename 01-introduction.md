@@ -1,6 +1,6 @@
 # Generative AI: In simple
 
-> A beginner-friendly guide to understanding Generative AI, Machine Learning, Deep Learning, and how they work behind the scenes.
+> A beginner-friendly content for anyone to understanding Generative AI, Machine Learning, Deep Learning, and how they work behind the scenes.
 
 ---
 
